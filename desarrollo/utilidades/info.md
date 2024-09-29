@@ -8,6 +8,15 @@
 - Navegador LT Browser [link](https://www.lambdatest.com/lt-browser)
 - [Responsively app](https://responsively.app/)
 
+## Cliente FTP
+
+- [Ciberduck MacOS](https://cyberduck.io/)
+- [Filezilla](https://filezilla-project.org/)
+
+## Editores
+
+- [Zed](https://zed.dev/)
+
 ## Diagramas
 
 - [Excalidraw](https://excalidraw.com/)
