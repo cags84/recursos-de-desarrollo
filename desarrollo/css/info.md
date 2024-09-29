@@ -41,3 +41,24 @@ Recopilación de enlaces, sitios y utilidades relacionadas con CSS y el mundo de
 ### Grid
 
 - [https://www.tailwindgen.com/](https://www.tailwindgen.com/)
+
+### Recursos
+
+- [Clippy](https://bennettfeely.com/clippy/)
+
+- [Fancy Border Radius to make cool blobs](https://9elements.github.io/fancy-border-radius/)
+
+- [Bezier Curves](https://cubic-bezier.com/)
+
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+
+- [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/)
+
+### Media querys
+
+- Como hacer media querys [link](https://www.instagram.com/reel/C8Ztq-Mh8gG/?utm_source=ig_web_copy_link)
+
+### Paleta de colores
+
+- 🎨 Generador de paletas de colores [link](https://mycolor.space/)
+- [Deblank](https://deblank.com/colors)
